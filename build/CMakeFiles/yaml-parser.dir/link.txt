@@ -1,1 +1,1 @@
-/usr/bin/c++      CMakeFiles/yaml-parser.dir/main.cpp.o  -o yaml-parser yaml-cpp/libyaml-cpp.a 
+/usr/bin/c++   -std=c++11   CMakeFiles/yaml-parser.dir/main.cpp.o  -o yaml-parser yaml-cpp/libyaml-cpp.a 
